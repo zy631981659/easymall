@@ -12,5 +12,6 @@ import java.util.List;
 public class GoodsController {
     @Autowired
     private GoodsService goodsService;
+    //Test Github upload first.
 
 }
