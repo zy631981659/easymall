@@ -14,4 +14,8 @@ public class GoodsController {
     private GoodsService goodsService;
     //Test Github upload first.
 
+    public void  test(){
+        System.out.println("Test commit");
+    }
+
 }
